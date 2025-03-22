@@ -1,8 +1,8 @@
-#import "@preview/touying:0.5.3": *
+#import "@preview/touying:0.6.1": *
 #import themes.metropolis: *
 
 #import "@preview/numbly:0.1.0": numbly
-#import "@preview/wrap-it:0.1.0": wrap-content
+#import "@preview/wrap-it:0.1.1": wrap-content
 
 #show: metropolis-theme.with(
   aspect-ratio: "16-9",
